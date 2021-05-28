@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 💼 &nbsp; Working as a Software Applicatin Engineer at Tech Mahindra Private Limited.
+- 💼 &nbsp; Working as a Software Application Engineer at Tech Mahindra Private Limited.
 - 🌱 &nbsp; Learning more about JavaScript and its various frameworks/run times
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -30,7 +30,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/rajat798">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajat798&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat798&theme=buefy&layout=compact" />
 </a>
