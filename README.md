@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
+- 🤔 &nbsp; Exploring React.
 - 💼 &nbsp; Working as a Software Application Engineer at Tech Mahindra Private Limited.
 - 🌱 &nbsp; Learning more about JavaScript and its various frameworks/run times
 
