@@ -1,47 +1,58 @@
-<h2> Hey there! I'm Rajat.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+# Hi, I'm Rajat Varshney 👋
 
-- 🤔 &nbsp; Exploring React.
-- 💼 &nbsp; Working as a Software Application Engineer at Tech Mahindra Private Limited.
-- 🌱 &nbsp; Learning more about JavaScript and its various frameworks/run times
+### Senior Frontend Engineer | Frontend Tech Lead
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+I'm a frontend engineer and technical lead with 8 years of software engineering experience, including 7 years building production applications with React and TypeScript.
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![PLSQL](https://img.shields.io/badge/-PLSQL-333333?style=flat&logo=plsql)
-  ![.NET](https://img.shields.io/badge/-DOTNET-333333?style=flat&logo=dotnet)
-  
-- 🛢 &nbsp;
-  ![OracleDB](https://img.shields.io/badge/-OracleDB-333333?style=flat&logo=oracle)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+Currently, I lead a team of 5–6 frontend engineers at **PreciTaste**, building AI-powered restaurant operations applications.
 
-<br/>
+I enjoy building scalable frontend systems, solving architecture challenges, improving web performance, and mentoring engineers.
 
-<a href="https://github.com/rajat798">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajat798&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat798&theme=buefy&layout=compact" />
-</a>
+## 🚀 What I Work On
 
-<br/>
+- **Frontend Engineering:** React, TypeScript, JavaScript, Redux, responsive web applications
+- **Frontend Architecture:** Micro-frontends, Webpack Module Federation, reusable components
+- **Performance:** Lighthouse audits, code splitting, lazy loading, caching
+- **Cross-Platform:** Capacitor, Firebase Cloud Messaging, iOS and Android integrations
+- **Quality & Delivery:** Jest, GitLab, CI/CD, Docker, code reviews
+- **Technical Leadership:** Mentoring, hiring, architecture discussions, and production delivery
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+## 🛠️ Tech Stack
 
-<p align="center">
-<a href="https://www.linkedin.com/in/rajat8794/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rajat%20Varshney-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:raj871994@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-raj871994@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+**Languages:** JavaScript, TypeScript, HTML5, CSS3
 
-⭐️ From [Rajat](https://github.com/rajat798)
+**Frontend:** React, Redux, Webpack, Module Federation
+
+**Testing:** Jest
+
+**Mobile & Integrations:** Capacitor, Firebase Cloud Messaging, Kafka
+
+**Tools:** Git, GitLab, Docker, Lighthouse, Figma
+
+**Databases:** MongoDB, Oracle PL/SQL
+
+## 💼 Professional Highlights
+
+- Leading a frontend engineering team of 5–6 developers.
+- Helped establish a micro-frontend platform spanning 5 product areas.
+- Delivered notifications across web, iOS, and Android.
+- Built interfaces for AI-powered demand forecasting and computer vision systems.
+- Improved application loading performance using Webpack optimizations.
+- Hired and mentored engineers while remaining hands-on with development.
+
+## 🎯 Areas of Interest
+
+- Scalable frontend architecture
+- React and TypeScript engineering
+- Web performance and developer experience
+- Micro-frontends and modular applications
+- Technical leadership and mentoring
+- AI-powered product interfaces
+
+## 🤝 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/rajat8794/)
+- [GitHub](https://github.com/rajat798)
+
+**Open to Senior Frontend Engineer and Frontend Tech Lead opportunities.**
